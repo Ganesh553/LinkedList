@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.MyNodeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-03T08:46:41" hostname="DESKTOP-C7IF6UF" time="0.018">
+  <properties/>
+  <testcase name="give3NumberisWhenWhenLinkedShouldpassLinkedListTest" classname="com.MyNodeTest" time="0.004"/>
+  <testcase name="give3NumberisWhenLinkedShouldBeAddedToTop" classname="com.MyNodeTest" time="0.007"/>
+  <testcase name="give3NumberisWhenAppendShouldBeAddedToList" classname="com.MyNodeTest" time="0.002"/>
+  <testcase name="give3NumberisWhenInsertingSecondBetweenShouldPassLinkedListResult" classname="com.MyNodeTest" time="0.003"/>
+  <system-out><![CDATA[My Node :56->30->70
+com.MyNode@21bf1376
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
